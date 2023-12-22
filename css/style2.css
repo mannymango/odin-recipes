@@ -3,8 +3,11 @@ body{
     font-family: Verdana, "Times New Roman", sans-serif;
 }
 
+.background{
+    background-color: rgb(170, 95, 95);
+}
 .title{
-    color: rgb(212, 166, 105);
+    color: rgb(255, 235, 235);
     margin: 16px;
     text-align: center;
 }
